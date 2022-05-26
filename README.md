@@ -18,4 +18,4 @@ The project here is meant to demonstrate the follow principals of HTML5. No CSS 
 # More on the Odin Project
 So far my opinion of The Odin Project is quite well. I find it entertaining enough to keep reading and even though I've been "tinkering" with html for more than a decade, I've already learned something, which is the whole point. Sometimes you just need to go back to basics, to move forward.
 
-I highly recommend you checkout [https://TheOdinProject.com](The Odin Project)
+I highly recommend you checkout (The Odin Project)[https://TheOdinProject.com]
